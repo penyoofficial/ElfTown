@@ -1,0 +1,15 @@
+[00:14:35] [Server thread/WARN]: Camel (vehicle of Bulldog) moved wrongly! 0.3860201074226097
+[00:14:35] [Server thread/WARN]: Camel (vehicle of Bulldog) moved wrongly! 0.3727170859783655
+[00:48:22] [Server thread/INFO]: Bulldog lost connection: Disconnected
+[00:48:22] [Server thread/INFO]: Bulldog left the game
+[00:49:16] [Server thread/INFO]: Stopping the server
+[00:49:16] [Server thread/INFO]: Stopping server
+[00:49:16] [Server thread/INFO]: Saving players
+[00:49:16] [Server thread/INFO]: Saving worlds
+[00:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:overworld
+[00:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:the_end
+[00:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:the_nether
+[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (精灵城): All chunks are saved
+[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
