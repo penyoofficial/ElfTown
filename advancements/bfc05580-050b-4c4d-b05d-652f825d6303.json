@@ -1,0 +1,40 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-02-04 14:41:47 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-02-04 14:41:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-02-04 14:41:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-02-04 14:27:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-02-04 14:32:45 +0800",
+      "minecraft:forest": "2024-02-04 14:30:25 +0800",
+      "minecraft:taiga": "2024-02-04 14:39:51 +0800",
+      "minecraft:cherry_grove": "2024-02-04 14:33:11 +0800",
+      "minecraft:river": "2024-02-04 14:39:42 +0800",
+      "minecraft:meadow": "2024-02-04 14:27:48 +0800",
+      "minecraft:stony_shore": "2024-02-04 14:32:40 +0800",
+      "minecraft:plains": "2024-02-04 14:30:21 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
+}
