@@ -1,15 +1,25 @@
-[00:14:35] [Server thread/WARN]: Camel (vehicle of Bulldog) moved wrongly! 0.3860201074226097
-[00:14:35] [Server thread/WARN]: Camel (vehicle of Bulldog) moved wrongly! 0.3727170859783655
-[00:48:22] [Server thread/INFO]: Bulldog lost connection: Disconnected
-[00:48:22] [Server thread/INFO]: Bulldog left the game
-[00:49:16] [Server thread/INFO]: Stopping the server
-[00:49:16] [Server thread/INFO]: Stopping server
-[00:49:16] [Server thread/INFO]: Saving players
-[00:49:16] [Server thread/INFO]: Saving worlds
-[00:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:overworld
-[00:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:the_end
-[00:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:the_nether
-[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (精灵城): All chunks are saved
-[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:14:16] [ServerMain/INFO]: Environment: Environment[sessionHost=http://127.0.0.1:13233/https/sessionserver.mojang.com, servicesHost=http://127.0.0.1:13233/https/api.minecraftservices.com, name=PROD]
+[20:14:18] [ServerMain/INFO]: Loaded 7 recipes
+[20:14:18] [ServerMain/INFO]: Loaded 1271 advancements
+[20:14:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:14:19] [Server thread/INFO]: Loading properties
+[20:14:19] [Server thread/INFO]: Default game type: CREATIVE
+[20:14:19] [Server thread/INFO]: Generating keypair
+[20:14:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:14:19] [Server thread/INFO]: Using default channel type
+[20:14:19] [Server thread/INFO]: Preparing level "ElfTown"
+[20:14:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:14:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:14:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:14:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:14:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:14:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:14:22] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[20:14:22] [Server thread/INFO]: Time elapsed: 2912 ms
+[20:14:22] [Server thread/INFO]: Done (3.659s)! For help, type "help"
+[20:15:37] [User Authenticator #1/INFO]: UUID of player Bulldog is 6abecc9b-27e1-4f34-802e-9239ffd3e783
+[20:15:37] [Server thread/INFO]: Bulldog[/127.0.0.1:13380] logged in with entity id 77 at (-230.84713220701656, 88.0, 2084.440247561905)
+[20:15:38] [Server thread/INFO]: Bulldog joined the game
+[20:50:05] [Server thread/INFO]: <Bulldog> -294,95,2031
+[21:38:33] [Server thread/INFO]: Bulldog lost connection: Disconnected
+[21:38:33] [Server thread/INFO]: Bulldog left the game
