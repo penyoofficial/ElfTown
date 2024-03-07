@@ -1,25 +1,75 @@
-[20:14:16] [ServerMain/INFO]: Environment: Environment[sessionHost=http://127.0.0.1:13233/https/sessionserver.mojang.com, servicesHost=http://127.0.0.1:13233/https/api.minecraftservices.com, name=PROD]
-[20:14:18] [ServerMain/INFO]: Loaded 7 recipes
-[20:14:18] [ServerMain/INFO]: Loaded 1271 advancements
-[20:14:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:14:19] [Server thread/INFO]: Loading properties
-[20:14:19] [Server thread/INFO]: Default game type: CREATIVE
-[20:14:19] [Server thread/INFO]: Generating keypair
-[20:14:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:14:19] [Server thread/INFO]: Using default channel type
-[20:14:19] [Server thread/INFO]: Preparing level "ElfTown"
-[20:14:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:14:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:14:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:14:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:14:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:14:22] [Worker-Main-13/INFO]: Preparing spawn area: 10%
-[20:14:22] [Server thread/INFO]: Time elapsed: 2912 ms
-[20:14:22] [Server thread/INFO]: Done (3.659s)! For help, type "help"
-[20:15:37] [User Authenticator #1/INFO]: UUID of player Bulldog is 6abecc9b-27e1-4f34-802e-9239ffd3e783
-[20:15:37] [Server thread/INFO]: Bulldog[/127.0.0.1:13380] logged in with entity id 77 at (-230.84713220701656, 88.0, 2084.440247561905)
-[20:15:38] [Server thread/INFO]: Bulldog joined the game
-[20:50:05] [Server thread/INFO]: <Bulldog> -294,95,2031
-[21:38:33] [Server thread/INFO]: Bulldog lost connection: Disconnected
-[21:38:33] [Server thread/INFO]: Bulldog left the game
+[21:32:20] [ServerMain/INFO]: Environment: Environment[sessionHost=http://127.0.0.1:50291/https/sessionserver.mojang.com, servicesHost=http://127.0.0.1:50291/https/api.minecraftservices.com, name=PROD]
+[21:32:21] [ServerMain/INFO]: Loaded 7 recipes
+[21:32:21] [ServerMain/INFO]: Loaded 1271 advancements
+[21:32:22] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:32:22] [Server thread/INFO]: Loading properties
+[21:32:22] [Server thread/INFO]: Default game type: CREATIVE
+[21:32:22] [Server thread/INFO]: Generating keypair
+[21:32:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:32:22] [Server thread/INFO]: Using default channel type
+[21:32:22] [Server thread/INFO]: Preparing level "ElfTown"
+[21:32:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:32:24] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:32:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:32:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:32:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:32:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:32:26] [Worker-Main-8/INFO]: Preparing spawn area: 55%
+[21:32:26] [Server thread/INFO]: Time elapsed: 3158 ms
+[21:32:26] [Server thread/INFO]: Done (4.046s)! For help, type "help"
+[21:45:34] [User Authenticator #1/INFO]: UUID of player Penyo is f37895a0-23a6-451f-9562-1d7e4162fcc9
+[21:45:34] [Server thread/INFO]: Penyo[/[0:0:0:0:0:0:0:1]:50733] logged in with entity id 124 at (-182.7298290034275, 97.58209866652805, 2251.5381598476956)
+[21:45:34] [Server thread/INFO]: Penyo joined the game
+[21:45:42] [Server thread/INFO]: Penyo lost connection: Disconnected
+[21:45:42] [Server thread/INFO]: Penyo left the game
+[21:47:17] [User Authenticator #2/INFO]: UUID of player XiaoLv010 is 0844fb55-6fce-4303-9d3c-63e93dc2e1b5
+[21:47:18] [Server thread/INFO]: XiaoLv010[/127.0.0.1:50755] logged in with entity id 201 at (-344.5404289973931, 71.0, 2317.2818509447557)
+[21:47:18] [Server thread/INFO]: XiaoLv010 joined the game
+[21:48:31] [User Authenticator #3/INFO]: UUID of player XiaoLv010 is 0844fb55-6fce-4303-9d3c-63e93dc2e1b5
+[21:48:31] [Server thread/INFO]: XiaoLv010 lost connection: You logged in from another location
+[21:48:31] [Server thread/INFO]: XiaoLv010 left the game
+[21:48:32] [Server thread/INFO]: XiaoLv010[/127.0.0.1:50759] logged in with entity id 343 at (-343.2673322839625, 71.0, 2317.4052466594276)
+[21:48:32] [Server thread/INFO]: XiaoLv010 joined the game
+[22:15:34] [Server thread/INFO]: XiaoLv010 lost connection: Disconnected
+[22:15:34] [Server thread/INFO]: XiaoLv010 left the game
+[22:15:50] [User Authenticator #4/INFO]: UUID of player XiaoLv010 is 0844fb55-6fce-4303-9d3c-63e93dc2e1b5
+[22:15:51] [Server thread/INFO]: XiaoLv010[/127.0.0.1:50978] logged in with entity id 2804 at (-371.6873731390733, 64.04852941487268, 2364.253138934692)
+[22:15:51] [Server thread/INFO]: XiaoLv010 joined the game
+[22:29:12] [Server thread/WARN]: XiaoLv010 moved too quickly! -9.29356394924406,-3.1745408595849085,-2.406741874535328
+[23:48:55] [User Authenticator #5/INFO]: UUID of player Penyo is f37895a0-23a6-451f-9562-1d7e4162fcc9
+[23:48:55] [Server thread/INFO]: Penyo[/[0:0:0:0:0:0:0:1]:51677] logged in with entity id 4310 at (-182.7298290034275, 97.58209866652805, 2251.5381598476956)
+[23:48:55] [Server thread/INFO]: Penyo joined the game
+[23:50:14] [Server thread/WARN]: Penyo moved too quickly! -144.7685071354984,-28.95402183537321,225.78740288255267
+[23:50:14] [Server thread/WARN]: Penyo moved too quickly! -144.7685071354984,-28.95402183537321,225.78740288255267
+[23:50:14] [Server thread/WARN]: Penyo moved too quickly! -144.7685071354984,-28.95402183537321,225.78740288255267
+[23:50:14] [Server thread/WARN]: Penyo moved too quickly! -144.7685071354984,-28.95402183537321,225.78740288255267
+[23:50:14] [Server thread/WARN]: Penyo moved too quickly! -144.7685071354984,-28.95402183537321,225.78740288255267
+[23:51:36] [Server thread/INFO]: <Penyo> 零点断网嘞
+[23:51:42] [Server thread/INFO]: <Penyo> 注意控制时间
+[23:52:15] [Server thread/INFO]: <XiaoLv010> ok
+[23:52:29] [Server thread/INFO]: <XiaoLv010> 我把高度定一下，就下线了
+[23:54:55] [Server thread/INFO]: <XiaoLv010> ok了
+[23:55:01] [Server thread/INFO]: <XiaoLv010> 暂定就是这么高、】
+[23:55:25] [Server thread/INFO]: <Penyo> quit
+[23:55:34] [Server thread/INFO]: XiaoLv010 lost connection: Disconnected
+[23:55:34] [Server thread/INFO]: XiaoLv010 left the game
+[23:56:50] [Server thread/INFO]: Penyo lost connection: Disconnected
+[23:56:50] [Server thread/INFO]: Penyo left the game
+[23:56:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:56:59] [Server thread/INFO]: quit<--[HERE]
+[23:57:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:57:03] [Server thread/INFO]: exit<--[HERE]
+[23:57:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:57:17] [Server thread/INFO]: end<--[HERE]
+[23:57:23] [Server thread/INFO]: Stopping the server
+[23:57:23] [Server thread/INFO]: Stopping server
+[23:57:23] [Server thread/INFO]: Saving players
+[23:57:23] [Server thread/INFO]: Saving worlds
+[23:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:overworld
+[23:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:the_end
+[23:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[精灵城]'/minecraft:the_nether
+[23:57:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (ElfTown): All chunks are saved
+[23:57:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:57:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:57:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
